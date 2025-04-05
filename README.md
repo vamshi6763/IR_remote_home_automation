@@ -1,5 +1,5 @@
 # IR_remote_home_automation
-Ir remote based home automation system, which can be maulalled controlled by an IR remote.
+Ir remote based home automation system, which can be manualled controlled by an IR remote.
 
 
 libraries to be installed:
